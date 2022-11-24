@@ -15,5 +15,6 @@ In this project we use Advance data storage and retrieval to analyse the weather
 - The precipitation is higher in december than it is in June.
 - The mean temperature is higher in june than in December.
 - Maximum rainfall in December is 6.42 inches while in June it is 4.43.
-- Year round precipitation
+- Year round precipitation graph shows that for most part of the year the precipitation is under 3 inches.
+
 ![Screenshot (131)](https://user-images.githubusercontent.com/112904905/203674465-dbc855c8-e416-476d-bf97-84990f46a6c3.png)
