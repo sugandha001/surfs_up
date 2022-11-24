@@ -3,7 +3,7 @@ In this project we use Advance data storage and retrieval to analyse the weather
 
 # Results
 ## June Temperature data
-![Screenshot (12![Screenshot (130)](https://user-images.githubusercontent.com/112904905/203673508-2b95e714-db15-48be-a66d-21ca780b874d.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/112904905/203674280-ccaa1a76-cf06-48b4-adbc-941d6f201ce0.png)
 ## June Precipitation Data
 ![Screenshot (130)](https://user-images.githubusercontent.com/112904905/203673560-669039d3-d9e2-4085-9de1-5b19ecc30741.png)
 ## December Temperature Data
@@ -14,4 +14,6 @@ In this project we use Advance data storage and retrieval to analyse the weather
 ## Observation 
 - The precipitation is higher in december than it is in June.
 - The mean temperature is higher in june than in December.
-
+- Maximum rainfall in December is 6.42 inches while in June it is 4.43.
+- Year round precipitation
+![Screenshot (131)](https://user-images.githubusercontent.com/112904905/203674465-dbc855c8-e416-476d-bf97-84990f46a6c3.png)
